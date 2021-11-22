@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="idpet">IDPET</string>
+
+    <string name="bienvenido">Bienvenido</string>
+    <string name="from_c4_g17t1">from C4-G17T1</string>
+
 </resources>
