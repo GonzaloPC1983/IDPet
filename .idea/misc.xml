@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/camil/Documents/IDPet/app/src/main/res/layout/activity_detallesmascota.xml" value="0.1" />
+        <entry key="..\:/Users/camil/Documents/IDPet/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/camil/Documents/IDPet/app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="..\:/Users/gonza/Desktop/IDPet/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
       </map>
     </option>
